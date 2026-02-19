@@ -1,0 +1,45 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+*.backup.json
+.futdcache.v2
+
+# Build outputs
+bin/
+obj/
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+
+# Test results
+TestResults/
+*.trx
+*.coverage
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# User-specific files
+*.userprefs
+*.usertasks
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
